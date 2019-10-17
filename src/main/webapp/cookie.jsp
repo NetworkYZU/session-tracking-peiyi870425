@@ -28,6 +28,6 @@
         <form action="saveCookie" method="POST">
             Your Favorite Food: <input type="text" name="food" value="<%=food%>"/><br/>
             <input type="submit"/>
-        </form>
+        </form><br>
     </body>
 </html>
